@@ -1,3 +1,4 @@
 # hello-world
-This is my first repository
-I am happy to be here and curious to get this started.
+
+I am passionate about analytics and happy to be here.
+Looking forward to being a pro at the end of this program.
